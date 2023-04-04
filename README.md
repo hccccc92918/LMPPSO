@@ -12,5 +12,5 @@ Dependencies
 	Matlab 2021
 
 <div align="center">
-  <img src="https://github.com/hccccc92918/CMOSMA/blob/master/data/Fig11.jpg">
+  <img src="https://github.com/hccccc92918/LMPPSO/blob/master/data/fig11.png">
 </div>
